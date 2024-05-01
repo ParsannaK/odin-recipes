@@ -1,0 +1,15 @@
+/* styles.css */
+
+.homepage{
+    text-align: center;
+    color: hotpink;
+    font-size: 44px;
+}
+
+h3 {
+    color: hotpink;
+}
+
+* {
+    background-color: lightcyan;
+}
